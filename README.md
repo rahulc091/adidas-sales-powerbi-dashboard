@@ -23,4 +23,7 @@ An interactive executive dashboard analyzing Adidas US retail sales performance,
 - `screenshots/` — High-resolution dashboard overview and drill-down visuals
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+<img width="1296" height="720" alt="Screenshot 2026-11-25 235057" src="https://github.com/user-attachments/assets/8cd5bbc3-1b6f-4bce-ae98-b92caac6fd7f" />
+<img width="1298" height="722" alt="Screenshot 2026-11-25 235219" src="https://github.com/user-attachments/assets/d5fd13be-c800-4bce-9de9-8643b9f9f78c" />
+<img width="1296" height="721" alt="Screenshot 2026-11-25 235236" src="https://github.com/user-attachments/assets/49988fd9-6841-47aa-b74b-6e5c68a9176c" />
+
