@@ -19,8 +19,8 @@ An interactive executive dashboard analyzing Adidas US retail sales performance,
 
 ## 📁 Repository Contents
 - `Adidas_Dashboard.pbix` — Interactive multi-page Power BI report file
-- `Adidas_Sales_Analysis_Executive.pdf` — 6-page executive portfolio case study & technical architecture report
-- `Adidas_Sales.xlsx` — Source retail dataset (9,648 transactions across 2020–2021)
+- `Adidas Sales.xlsx` — Source retail dataset (9,648 transactions across 2020–2021)
+-  `Adidas_Sales_Analysis_Executive.pdf` — 6-page executive portfolio case study & technical architecture report
 - `screenshots/` — High-resolution dashboard overview and drill-down visuals
 
 ## 📸 Dashboard Preview
